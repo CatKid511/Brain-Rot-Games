@@ -2,12 +2,18 @@
 <html>
 <head>
   <title> BrainRotGames </title>
-</head>
-<body>
-<div>
-  Brain Rot Games
-<div>
-<br/>
-<div>
-  Your best choice for unblocked games on the internet
-
+  <style>
+     body {
+        margin: 0px;
+}
+.pad {
+   padding: 25px;
+}
+.header {
+  background-color: lightblue;
+  color: black;
+  height: 100px;
+  font-size 36pt;
+  text-align: center;
+}
+  
